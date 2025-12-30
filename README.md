@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m Ognjen-T<br><br>💻 Passionate about programming, engineering, and game development<br>🎨 I enjoy web design, UI/UX, and creating clean, modern layouts<br>🚀 Always learning and improving my skills<br><br>
+# About Me:
+# 👋 Hi, I’m Ognjen-T<br><br>
+
+💻 Passionate about programming, engineering, and game development<br>
+🎨 I enjoy web design, UI/UX, and creating clean, modern layouts<br>
+🚀 Always learning and improving my skills<br><br>
+
 # 🧠 What I’m learning
 - Java<br><br>
 - Python (basic logic & problem solving)<br><br>
