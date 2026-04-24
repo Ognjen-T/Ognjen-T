@@ -1,5 +1,5 @@
 # About Me: <br>
-# 👋 Hi, I’m Ognjen-T <br>
+# 👋 Hi, I’m Ognjen-t <br>
 <br>
 💻 Passionate about programming, engineering, and game development <br>
 🎨 I enjoy web design, UI/UX, and creating clean, modern layouts <br> 
