@@ -1,3 +1,4 @@
-# About Me: <br>
+# Hi 👋 I'm Ognjen-T
+Frontend developer focused on clean UI & modern design <br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
