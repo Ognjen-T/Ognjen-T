@@ -1,5 +1,10 @@
 # Hi 👋 I'm Ognjen-T
-An highschooler that is ambitious about programming <br><br>
+An highschooler that is ambitious about programming <br>
+
+## 🚀 Interests
+- Software Engineering  
+- Game Development  
+- Cybersecurity  
 
 ## 💻 Some skills that I possess:
 <br>
