@@ -1,4 +1,8 @@
 # Hi 👋 I'm Ognjen-T
-Frontend developer focused on clean UI & modern design <br>
+An highschooler that is ambicious about programming
+
+Some skill that I posses:
+
+
 
 
