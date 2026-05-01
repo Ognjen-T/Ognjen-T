@@ -3,8 +3,8 @@ An highschooler that is ambitious about programming <br>
 
 ## Some things I tend to like
 - ⚙️Software Engineering -> (Main Focus)
-- 🎮Game Development ---> (Hobby)
-- 🔐Cybersecurity ----------> (Would like to learn)
+- 🎮Game Development -> (Hobby)
+- 🔐Cybersecurity -> (Would like to learn)
 
 ## 💻 Some skills that I possess:
 <br>
